@@ -2,6 +2,8 @@
 require '../vendor/autoload.php';
 use Medoo\Medoo;
 
+echo 'test';
+
 ?>
 <!doctype html>
 <html class="no-js" lang="">
